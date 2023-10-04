@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuheng Lin"
+title                    : "Yuheng Lin (林宇恒)"
 description              : "Passionate deep learning engineer focusing on intelligent audio solutions."
 repository               : "Rozenthegoat/Rozenthegoat.github.io"
 google_scholar_stats_use_cdn : true
