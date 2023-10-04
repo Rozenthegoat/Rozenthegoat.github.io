@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuheng Lin title"
-description              : "Yuheng Lin description"
+title                    : "Yuheng Lin"
+description              : "Passionate deep learning engineer focusing on intelligent audio solutions."
 repository               : "Rozenthegoat/Rozenthegoat.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuheng Lin"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "this is bio"
+  bio              : "MSc student in CUHK, Hong Kong"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
@@ -40,7 +40,7 @@ author:
   github           : "Rozenthegoat" # e.g., "github username"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/rozenthegoat/"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
@@ -49,7 +49,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://steamcommunity.com/profiles/76561198207869009/"
   tumblr           :
   twitter          : 
   vine             :
