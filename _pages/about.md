@@ -21,9 +21,10 @@ My research interest includes Music Information Retrieval and Music Generation. 
 
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉🎉 Join DSP Lab, Department of EE, CUHK.
 - *2023.09*: &nbsp;🎉🎉 Start MSc journey in CUHK.
-- *2023.08*: &nbsp;🎉🎉 End my 1.75-year extraordinary internship at ByteDance!
-- *2023.08*: &nbsp;🎉🎉 Graduated from UoA, say goodbye to my bachelor life.
+- *2023.08*: &nbsp;🎉🎉 Graduated from University of Adelaide.
+- *2022.10*: &nbsp;🎉🎉 End my extraordinary internship at ByteDance.
 - *2022.05*: &nbsp;🎉🎉 One participated paper got accepted by ISMIR2022!
 - *2021.12*: &nbsp;🎉🎉 Officially become an intern in AI Lab, ByteDance.
 
