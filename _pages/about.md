@@ -62,5 +62,9 @@ Xingjian Du, Huidong Liang, Yuan Wan, **Yuheng Lin**, Ke Chen, Bilei Zhu, Zejun 
 - *2021.12 - 2023.08*, Intelligent Music Team, AI Lab, [ByteDance](https://www.bytedance.com/en/), Shanghai, China.
 
 <!-- hitwebcounter Code START -->
+<p>
+Page views since March 2024:
 <a href="https://www.hitwebcounter.com" target="_blank">
-Page views since March 2024:<img src="https://hitwebcounter.com/counter/counter.php?page=11756978&style=0007&nbdigits=6&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>                                    
+    <img src="https://hitwebcounter.com/counter/counter.php?page=11756978&style=0007&nbdigits=6&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />
+</a>
+</p>
