@@ -22,7 +22,7 @@ I have participated in several research projects, one out them has been publishe
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 Join DSP Lab, Department of EE, CUHK.
+- *2023.12*: &nbsp;🎉🎉 Join <a href='http://dsp.ee.cuhk.edu.hk/'>DSP Lab</a>, Department of EE, CUHK.
 - *2023.09*: &nbsp;🎉🎉 Start MScIE journey in CUHK.
 - *2023.07*: &nbsp;🎉🎉 Graduated from University of Adelaide.
 - *2022.10*: &nbsp;🎉🎉 End my extraordinary internship at ByteDance.
