@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes Music Information Retrieval and Music Generation. I have participated in several research projects, one out them has been published at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=W1W0LXoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Current research focus: **diffusion model**, **multi-modality**, **music generation**.
+I have participated in several research projects, one out them has been published at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=W1W0LXoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 Join DSP Lab, Department of EE, CUHK.
-- *2023.09*: &nbsp;🎉🎉 Start MSc journey in CUHK.
-- *2023.08*: &nbsp;🎉🎉 Graduated from University of Adelaide.
+- *2023.12*: &nbsp;🎉🎉 Join DSP Lab, Department of EE, CUHK.
+- *2023.09*: &nbsp;🎉🎉 Start MScIE journey in CUHK.
+- *2023.07*: &nbsp;🎉🎉 Graduated from University of Adelaide.
 - *2022.10*: &nbsp;🎉🎉 End my extraordinary internship at ByteDance.
-- *2022.05*: &nbsp;🎉🎉 One participated paper got accepted by ISMIR2022!
-- *2021.12*: &nbsp;🎉🎉 Officially become an intern in AI Lab, ByteDance.
+- *2022.05*: &nbsp;🎉🎉 One co-authored paper got accepted by ISMIR2022!
+- *2021.12*: &nbsp;🎉🎉 Join AI Lab Speech and Audio Team, ByteDance.
 
 # 📝 Publications 
 
@@ -46,8 +47,8 @@ Xingjian Du, Huidong Liang, Yuan Wan, **Yuheng Lin**, Ke Chen, Bilei Zhu, Zejun 
 - [Coming soon](https://github.com), A, B, C, **AAAAAAAI 2023**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.08* The 1st China-Malaysia Youth Innovation & Entrepreneurship Competition (Third Prize)
+- *2021.05* Kyoto International Entrepreneurship Contest for University Students 2019 (Third Prize)
 
 # 📖 Educations
 - *2023.09 - now*, MSc in Information Engineering, [Chinese University of Hong Kong (CUHK)](https://msc.ie.cuhk.edu.hk/), Hong Kong SAR, China
