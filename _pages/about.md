@@ -59,7 +59,7 @@ Xingjian Du, Huidong Liang, Yuan Wan, **Yuheng Lin**, Ke Chen, Bilei Zhu, Zejun 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2021.12 - 2023.08*, Intelligent Music Team, AI Lab, [ByteDance](https://www.bytedance.com/en/), Shanghai, China.
+- *2021.12 - 2022.10*, Intelligent Music Team, AI Lab, [ByteDance](https://www.bytedance.com/en/), Shanghai, China.
 
 <!-- hitwebcounter Code START -->
 <p>
