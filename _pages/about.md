@@ -19,12 +19,12 @@ redirect_from:
 
 Current research focus: **diffusion model**, **music generation**, **multi-modality**.
 
-I am a Master of Science student in Department of Information Engineering, The Chinese University of Hong Kong. I also affiliate to DSP Lab, Department of Electronic Engineering as a research student, supervised by [Prof. Qiuqiang Kong](qiuqiangkong.github.io).
+I am a Master of Science student in Department of Information Engineering, The Chinese University of Hong Kong. I also affiliate to DSP Lab, Department of Electronic Engineering as a research student, supervised by [Prof. Qiuqiang Kong](https://qiuqiangkong.github.io).
 
 <!-- I have participated in several research projects, one out them has been published at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=W1W0LXoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 <div >
-    Currently, I am actively seeking for <b style="color: red; font-size: 20px;">full-time industrial opportunities</b> (will be graduated at Oct 2024), please email me (rozenthegoat@qq.com) if any matches!
+    Currently, I am actively seeking for worldwide <b style="color: red; font-size: 20px;">full-time industrial opportunities</b> (will be graduated at Oct 2024), please email me (rozenthegoat@qq.com) if any matches!
 </div>
 
 
@@ -41,14 +41,15 @@ I am a Master of Science student in Department of Information Engineering, The C
 
 ## Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/musicscore.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/paper/musicscore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MusicScore: A Dataset for Music Score Modeling and Generation](https://arxiv.org/abs/2406.11462) <div style="color: red; font-family: Arial, sans-serif;">In submission</div>
 
 <p style="font-size: 16px">**Yuheng Lin**</p>, Zheqi Dai, [Qiuqiang Kong](qiuqiangkong.github.io)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+[**GitHub**](https://github.com/dzq84/MusicScore-script)
+[**Download Dataset**](https://huggingface.co/datasets/ZheqiDAI/MusicScore)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Presented MusicScore, a large-scale image-text dataset collected from IMSLP.
 - Introduce music score generation, a new paradigm for music generation.
@@ -64,7 +65,7 @@ I am a Master of Science student in Department of Information Engineering, The C
 
 Xingjian Du, Huidong Liang, Yuan Wan, **Yuheng Lin**, Ke Chen, Bilei Zhu, Zejun Ma
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Presented Di-Chorus, a comprehensive open source chorus detection dataset with industrial-used level annotation.
 - Reached a newer SOTA.
