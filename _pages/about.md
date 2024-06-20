@@ -44,7 +44,7 @@ I am a Master of Science student in Department of Information Engineering, The C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/paper/musicscore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MusicScore: A Dataset for Music Score Modeling and Generation](https://arxiv.org/abs/2406.11462) <div style="color: red; font-family: Arial, sans-serif;">In submission</div>
+[MusicScore: A Dataset for Music Score Modeling and Generation](https://arxiv.org/abs/2406.11462) <p style="color: red; font-family: Arial, sans-serif;">In submission</p>
 
 <p style="font-size: 16px">**Yuheng Lin**</p>, Zheqi Dai, [Qiuqiang Kong](qiuqiangkong.github.io)
 
