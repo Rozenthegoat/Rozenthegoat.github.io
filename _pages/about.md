@@ -19,11 +19,13 @@ redirect_from:
 
 Current research focus: **diffusion model**, **music generation**, **multi-modality**.
 
-I am a Master of Science student in Department of Information Engineering, The Chinese University of Hong Kong. I also affiliate to DSP Lab, Department of Electronic Engineering as a research student, supervised by [Qiuqiang Kong](qiuqiangkong.github.io).
+I am a Master of Science student in Department of Information Engineering, The Chinese University of Hong Kong. I also affiliate to DSP Lab, Department of Electronic Engineering as a research student, supervised by [Prof. Qiuqiang Kong](qiuqiangkong.github.io).
 
 <!-- I have participated in several research projects, one out them has been published at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=W1W0LXoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-Currently, I am actively seeking for full-time industrial opportunities (will be graduated at Oct 2024), please email me if any matches!
+<div style="color: red; font-size: 16px;">
+    Currently, I am actively seeking for <b>full-time industrial opportunities</b> (will be graduated at Oct 2024), please email me if any matches!
+</div>
 
 
 # 🔥 News
@@ -39,12 +41,12 @@ Currently, I am actively seeking for full-time industrial opportunities (will be
 
 ## Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/musicscore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MusicScore: A Dataset for Music Score Modeling and Generation](https://arxiv.org/abs/2406.11462)
+[MusicScore: A Dataset for Music Score Modeling and Generation](https://arxiv.org/abs/2406.11462) <div style="color: red; font-family: Arial, sans-serif;">In submission</div>
 
-**Yuheng Lin**, Zheqi Dai, [Qiuqiang Kong](qiuqiangkong.github.io)
+<div style="font-size: 16px">**Yuheng Lin**</div>, Zheqi Dai, [Qiuqiang Kong](qiuqiangkong.github.io)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
