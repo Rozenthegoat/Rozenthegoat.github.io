@@ -44,12 +44,12 @@ I am a Master of Science student in Department of Information Engineering, The C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/paper/musicscore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MusicScore: A Dataset for Music Score Modeling and Generation](https://arxiv.org/abs/2406.11462) <span style="color: red; font-style: bold; font-family: Times New Romans;">In submission</span>
+[MusicScore: A Dataset for Music Score Modeling and Generation](https://arxiv.org/abs/2406.11462) <span style="color: red; font-style: bold; font-family: Arial, sans-serif;">In submission</span>
 
 **Yuheng Lin**, Zheqi Dai, [Qiuqiang Kong](qiuqiangkong.github.io)
 
-[**GitHub**](https://github.com/dzq84/MusicScore-script)
-[**Download Dataset**](https://huggingface.co/datasets/ZheqiDAI/MusicScore)
+🔩 [**GitHub**](https://github.com/dzq84/MusicScore-script)
+🎼 [**Download Dataset**](https://huggingface.co/datasets/ZheqiDAI/MusicScore)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Presented MusicScore, a large-scale image-text dataset collected from IMSLP.
 - Introduce music score generation, a new paradigm for music generation.
@@ -73,8 +73,8 @@ Xingjian Du, Huidong Liang, Yuan Wan, **Yuheng Lin**, Ke Chen, Bilei Zhu, Zejun 
 </div>
 
 # 💻 Internships
-- *2021.12 - 2022.10*, Audio & Music Team, Hong Kong Research Center, 2012 Labs, [Huawei](https://www.linkedin.com/company/huawei-hong-kong-research-center-hkrc/)<span><img src='images/huawei.png' alt='sym' width="100%"></span>, Hong Kong SAR, China.
-- *2021.12 - 2022.10*, Intelligent Music Team, AI Lab, [ByteDance](https://www.bytedance.com/en/)<span><img src='images/tiktok.png' alt='sym' width="100%"></span>, Shanghai, China.
+- *2021.12 - 2022.10*, Audio & Music Team, Hong Kong Research Center, 2012 Labs, [Huawei](https://www.linkedin.com/company/huawei-hong-kong-research-center-hkrc/)<span><img src='images/huawei.png' alt='sym' style="width: 6em;"></span>, Hong Kong SAR, China.
+- *2021.12 - 2022.10*, Intelligent Music Team, AI Lab, [ByteDance](https://www.bytedance.com/en/)<span><img src='images/tiktok.png' alt='sym' style="width: 6em;"></span>, Shanghai, China.
 
 
 # 🎖 Honors and Awards
