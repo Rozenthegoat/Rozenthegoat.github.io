@@ -29,11 +29,12 @@ I am a Master of Science student in Department of Information Engineering, The C
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 One preprint dataset paper released.
+- *2024.06*: &nbsp; One preprint dataset paper released.
+- *2024.06*: &nbsp;🎉🎉 Join Huawei Hong Kong Research Center as an intern.
 - *2023.12*: &nbsp;🎉🎉 Join <a href='http://dsp.ee.cuhk.edu.hk/'>DSP Lab</a>, Department of EE, CUHK.
-- *2023.09*: &nbsp;🎉🎉 Start <a href='https://msc.ie.cuhk.edu.hk/'>MScIE</a> journey in CUHK.
+- *2023.09*: &nbsp; Start <a href='https://msc.ie.cuhk.edu.hk/'>MScIE</a> journey in CUHK.
 - *2023.07*: &nbsp;🎉🎉 Graduated from University of Adelaide.
-- *2022.10*: &nbsp;🎉🎉 End my extraordinary internship at ByteDance.
+- *2022.10*: &nbsp; End my extraordinary internship at ByteDance.
 - *2022.05*: &nbsp;🎉🎉 One co-authored paper got accepted by ISMIR2022!
 - *2021.12*: &nbsp;🎉🎉 Join AI Lab Speech and Audio Team, ByteDance.
 
@@ -73,8 +74,8 @@ Xingjian Du, Huidong Liang, Yuan Wan, **Yuheng Lin**, Ke Chen, Bilei Zhu, Zejun 
 </div>
 
 # 💻 Internships
-- *2021.12 - 2022.10*, Audio & Music Team, Hong Kong Research Center, 2012 Labs, [Huawei](https://www.linkedin.com/company/huawei-hong-kong-research-center-hkrc/)<span><img src='images/huawei.png' alt='sym' style="width: 6em;"></span>, Hong Kong SAR, China.
-- *2021.12 - 2022.10*, Intelligent Music Team, AI Lab, [ByteDance](https://www.bytedance.com/en/)<span><img src='images/tiktok.png' alt='sym' style="width: 6em;"></span>, Shanghai, China.
+- *2024.06 - present*, Audio & Music Team, Hong Kong Research Center, 2012 Labs, [Huawei](https://www.linkedin.com/company/huawei-hong-kong-research-center-hkrc/)<span><img src='images/huawei.png' alt='sym' style="width: 6em;"></span>, Hong Kong SAR, China.
+- *2021.12 - 2022.10*, Music, Speech & Audio Team, AI Lab, [ByteDance](https://www.bytedance.com/en/)<span><img src='images/tiktok.png' alt='sym' style="width: 6em;"></span>, Shanghai, China.
 
 
 # 🎖 Honors and Awards
