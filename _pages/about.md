@@ -78,10 +78,6 @@ Xingjian Du, Huidong Liang, Yuan Wan, **Yuheng Lin**, Ke Chen, Bilei Zhu, Zejun 
 - *2021.12 - 2022.10*, Music, Speech & Audio Team, AI Lab, [ByteDance](https://www.bytedance.com/en/)<span><img src='images/tiktok.png' alt='sym' style="width: 6em;"></span>, Shanghai, China.
 
 
-# 🎖 Honors and Awards
-- *2021.08* The 1st China-Malaysia Youth Innovation & Entrepreneurship Competition (Third Prize)
-- *2021.05* Kyoto International Entrepreneurship Contest for University Students 2019 (Third Prize)
-
 # 📖 Educations
 - *2023.09 - now*, MSc in Information Engineering, [Chinese University of Hong Kong (CUHK)](https://msc.ie.cuhk.edu.hk/), Hong Kong SAR, China
 - *2020.07 - 2023.07*, Bachelor of Computer Science (Advanced) (Artificial Intelligence Track), [University of Adelaide](https://www.adelaide.edu.au/degree-finder/bcmsa_bcmpscadv.html), North Terrace Campus, Adelaide, South Australia
@@ -89,6 +85,10 @@ Xingjian Du, Huidong Liang, Yuan Wan, **Yuheng Lin**, Ke Chen, Bilei Zhu, Zejun 
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+# 🎖 Honors and Awards
+- *2021.08* The 1st China-Malaysia Youth Innovation & Entrepreneurship Competition (Third Prize)
+- *2021.05* Kyoto International Entrepreneurship Contest for University Students 2019 (Third Prize)
 
 <!-- hitwebcounter Code START -->
 <p>
